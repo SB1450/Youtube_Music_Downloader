@@ -19,7 +19,7 @@ Text-file - In our case the **songs.txt** file . This file will contain Url's se
 
 If no argument is given then the program will ask you to give one url as input and will install it
 
-<sub>The songs.txt file conatin one song for demonstration - "Let Me Down Slowly" by "Alec Benjamin"</sub>
+<sub>The songs.txt file conatin one song for demonstration - ["Alec Benjamin - Let Me Down Slowly"](https://www.youtube.com/watch?v=50VNCymT-Cs)</sub>
 
 The script installs all the url's that were given in the text file and save then in **Home/Music/songs** folder/directory if the directory is not exists it will create it
 
